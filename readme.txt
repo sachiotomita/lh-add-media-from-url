@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0
 
-Save post as text or save post as html. Only post content is saved all other stuff gets discarded.
+Surf the web and add content to the wordpress media library via a bookmarklet
 
 == Description ==
 
