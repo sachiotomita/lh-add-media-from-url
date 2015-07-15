@@ -1,5 +1,5 @@
 === LH Add Media From Url ===
-Contributors: Peter Shaw
+Contributors: shawfactor
 Donate link: http://lhero.org/plugins/lh-add-media-from-url/
 Tags: post, attachment, media, download, bookmarklet, attachment
 Requires at least: 3.0
